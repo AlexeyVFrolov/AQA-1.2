@@ -1,6 +1,0 @@
-version: 1.0.{build}
-build:
-  verbosity: minimal
-artifacts:
-- path: artifacts\
-  name: app-mbank.jar
